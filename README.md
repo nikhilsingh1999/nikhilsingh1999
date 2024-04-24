@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @nikhilsingh1999
-- 👀 I’m interested in web development
+- 👋 Hi, I’m nikhil singh
+- 👀 I’m interested in full stack development
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking for work.
 
